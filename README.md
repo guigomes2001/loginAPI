@@ -121,10 +121,6 @@ Example configuration in application.properties:
 🧑‍💻 Author
 
 Guilherme Gomes
-📧 criptocomofficial@gmail.com
-
-💼 @gui_gomes_18
-
 📝 License
 
 This API is proprietary software.
