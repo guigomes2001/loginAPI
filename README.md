@@ -22,7 +22,7 @@ Developed to serve as an independent authentication microservice for web or mobi
 - Java 21
 - Spring Boot 3.5.6
 - Spring Security
-- Spring Data JPA
+- JDCB (Java DataBase Connection)
 - JWT (io.jsonwebtoken 0.11.5)
 - Spring Mail
 - MySQL
